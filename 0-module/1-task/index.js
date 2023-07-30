@@ -1,8 +1,12 @@
 function sum(m, n) {
+  //    ваш код...
   let result = m + n;
   return result;
 }
-let task1 = sum(1, 1);
-console.log(task1);
+let taskSum1 = sum(1, 1);
+let taskSum2 = sum(2, 5);
 
-// Толком и не понял, что сделал. Вернее, что посмотрел в интернете.
+console.log(taskSum1);
+console.log(taskSum2);
+
+// Толком и не понял, что сделал. Вернее, что ycпел посмотреть в интернете.
